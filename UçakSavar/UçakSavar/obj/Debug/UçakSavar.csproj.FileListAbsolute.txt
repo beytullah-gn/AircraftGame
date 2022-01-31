@@ -1,0 +1,10 @@
+C:\Users\b-gny\source\repos\UçakSavar\UçakSavar\bin\Debug\UçakSavar.exe.config
+C:\Users\b-gny\source\repos\UçakSavar\UçakSavar\bin\Debug\UçakSavar.exe
+C:\Users\b-gny\source\repos\UçakSavar\UçakSavar\bin\Debug\UçakSavar.pdb
+C:\Users\b-gny\source\repos\UçakSavar\UçakSavar\obj\Debug\UçakSavar.csprojAssemblyReference.cache
+C:\Users\b-gny\source\repos\UçakSavar\UçakSavar\obj\Debug\UçakSavar.Form1.resources
+C:\Users\b-gny\source\repos\UçakSavar\UçakSavar\obj\Debug\UçakSavar.Properties.Resources.resources
+C:\Users\b-gny\source\repos\UçakSavar\UçakSavar\obj\Debug\UçakSavar.csproj.GenerateResource.cache
+C:\Users\b-gny\source\repos\UçakSavar\UçakSavar\obj\Debug\UçakSavar.csproj.CoreCompileInputs.cache
+C:\Users\b-gny\source\repos\UçakSavar\UçakSavar\obj\Debug\UçakSavar.exe
+C:\Users\b-gny\source\repos\UçakSavar\UçakSavar\obj\Debug\UçakSavar.pdb
